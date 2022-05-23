@@ -1,10 +1,10 @@
 setwd("C:/Users/z94am/Desktop/DATA SCIENCE PRINCIPLES OF DATA SCIENCE")
 
 library(readxl)
-Countries_Data_1_ <- read_excel("Countries_Data (1).xlsx")
-View(Countries_Data_1_)
+Countries_Data_1_ <- read_excel("Countries_Data.xlsx")
+View(Countries_Data)
 
-CD <- read_excel("Countries_Data (1).xlsx")
+CD <- read_excel("Countries_Data.xlsx")
 
 #------------------------------installing the nessacary packages--------------------------- 
 
